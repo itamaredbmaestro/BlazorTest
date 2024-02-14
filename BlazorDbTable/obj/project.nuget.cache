@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXJxMBXGL2mGu25Y97wNz0njOEZfSlWBT9PhbQRa4LloN3RKavHYQBXiGrRy/pdtXm4RhswN+9IwTO9U/Y7TOw==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Tests\\BlazorTest\\BlazorDbTable\\BlazorDbTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\scriban\\5.9.1\\scriban.5.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

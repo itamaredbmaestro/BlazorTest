@@ -1,0 +1,15 @@
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\bin\Debug\net6.0\BlazorTestEmailTemplates.deps.json
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\bin\Debug\net6.0\BlazorTestEmailTemplates.dll
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\bin\Debug\net6.0\BlazorTestEmailTemplates.pdb
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\bin\Debug\net6.0\BlazorTestClasses.dll
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\bin\Debug\net6.0\BlazorTestClasses.pdb
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\BlazorTestEmailTemplates.csproj.AssemblyReference.cache
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\BlazorTestEmailTemplates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\BlazorTestEmailTemplates.AssemblyInfoInputs.cache
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\BlazorTestEmailTemplates.AssemblyInfo.cs
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\BlazorTestEmailTemplates.csproj.CoreCompileInputs.cache
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\BlazorTestEmailTemplates.csproj.CopyComplete
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\BlazorTestEmailTemplates.dll
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\refint\BlazorTestEmailTemplates.dll
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\BlazorTestEmailTemplates.pdb
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\ref\BlazorTestEmailTemplates.dll
