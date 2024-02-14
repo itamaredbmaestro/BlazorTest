@@ -18,7 +18,7 @@ namespace BlazorTestEmailTemplates
         public GenerateBestPerformanceEmail(PerformanceSequance sequance)
         {
             this.sequance = sequance;
-            string templateContent = File.ReadAllText(Path.Combine(Environment.CurrentDirectory, "Templates", "BestPerformanceEmail.sbn"));
+            string templateContent = File.ReadAllText(Path.Combine(typeof(GenerateBestPerformanceEmail).Assembly.Location, "Templates", "BestPerformanceEmail.sbn"));
 
             var tpl = Template.Parse(templateContent);
             var scriptObject = new ScriptObject();
@@ -34,14 +34,14 @@ namespace BlazorTestEmailTemplates
             EmailContent = output.ToString().Trim();
         }
 
-        private DateTime GetPerformanceStart()
+        private string GetPerformanceStart()
         {
-            return new DateTime(2024, sequance.Month, sequance.FromDay);
+            return new DateTime(2024, sequance.Month, sequance.FromDay).ToShortDateString();
         }
 
-        private DateTime GetPerformanceEnd()
+        private string GetPerformanceEnd()
         {
-            return new DateTime(2024, sequance.Month, sequance.ToDay);
+            return new DateTime(2024, sequance.Month, sequance.ToDay).ToShortDateString();
         }
 
         private int GetTotalTicketsOver()

@@ -14,4 +14,13 @@
     <ProjectReference Include="..\BlazorTestClasses\BlazorTestClasses.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Templates\BestPerformanceEmail.sbn">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Templates\PerformanceEmail.sbn">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

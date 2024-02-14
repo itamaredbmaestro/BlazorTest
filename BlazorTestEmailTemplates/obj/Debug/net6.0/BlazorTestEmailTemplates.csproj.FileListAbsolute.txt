@@ -13,3 +13,5 @@ C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\Blazor
 C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\refint\BlazorTestEmailTemplates.dll
 C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\BlazorTestEmailTemplates.pdb
 C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\obj\Debug\net6.0\ref\BlazorTestEmailTemplates.dll
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\bin\Debug\net6.0\Templates\BestPerformanceEmail.sbn
+C:\Development\Tests\BlazorTest\BlazorTestEmailTemplates\bin\Debug\net6.0\Templates\PerformanceEmail.sbn

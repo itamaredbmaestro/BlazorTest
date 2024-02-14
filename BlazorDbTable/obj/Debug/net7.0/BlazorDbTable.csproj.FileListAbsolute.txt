@@ -44,3 +44,5 @@ C:\Development\Tests\BlazorTest\BlazorDbTable\bin\Debug\net7.0\BlazorTestEmailTe
 C:\Development\Tests\BlazorTest\BlazorDbTable\bin\Debug\net7.0\Sylvan.Data.Csv.xml
 C:\Development\Tests\BlazorTest\BlazorDbTable\obj\Debug\net7.0\BlazorDbTable.csproj.AssemblyReference.cache
 C:\Development\Tests\BlazorTest\BlazorDbTable\obj\Debug\net7.0\BlazorDbTable.csproj.CopyComplete
+C:\Development\Tests\BlazorTest\BlazorDbTable\bin\Debug\net7.0\Templates\BestPerformanceEmail.sbn
+C:\Development\Tests\BlazorTest\BlazorDbTable\bin\Debug\net7.0\Templates\PerformanceEmail.sbn

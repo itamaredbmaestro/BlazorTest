@@ -21,7 +21,7 @@ namespace BlazorTestEmailTemplates
         {
             this.employee = employee;
             this.performance = performances;
-            string templateContent = File.ReadAllText(Path.Combine(Environment.CurrentDirectory, "Templates", "PerformanceEmail.sbn"));
+            string templateContent = File.ReadAllText(Path.Combine(Path.GetDirectoryName(typeof(GeneratePerformanceEmail).Assembly.Location), "Templates", "PerformanceEmail.sbn"));
 
             var tpl = Template.Parse(templateContent);
             var scriptObject = new ScriptObject();
@@ -38,14 +38,14 @@ namespace BlazorTestEmailTemplates
             EmailContent = output.ToString().Trim();
         }
 
-        private DateTime GetPerformanceStart()
+        private string GetPerformanceStart()
         {
-            return performance.Select(p => new DateTime(2024, p.Month, p.Day)).Min();
+            return performance.Select(p => new DateTime(2024, p.Month, p.Day)).Min().ToShortDateString();
         }
 
-        private DateTime GetPerformanceEnd()
+        private string GetPerformanceEnd()
         {
-            return performance.Select(p => new DateTime(2024, p.Month, p.Day)).Max();
+            return performance.Select(p => new DateTime(2024, p.Month, p.Day)).Max().ToShortDateString();
         }
 
         private int SumTicketsFromAmount()
