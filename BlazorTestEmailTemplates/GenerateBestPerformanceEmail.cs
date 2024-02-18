@@ -18,7 +18,7 @@ namespace BlazorTestEmailTemplates
         public GenerateBestPerformanceEmail(PerformanceSequance sequance)
         {
             this.sequance = sequance;
-            string templateContent = File.ReadAllText(Path.Combine(typeof(GenerateBestPerformanceEmail).Assembly.Location, "Templates", "BestPerformanceEmail.sbn"));
+            string templateContent = File.ReadAllText(Path.Combine(Path.GetDirectoryName(typeof(GenerateBestPerformanceEmail).Assembly.Location), "Templates", "BestPerformanceEmail.sbn"));
 
             var tpl = Template.Parse(templateContent);
             var scriptObject = new ScriptObject();
