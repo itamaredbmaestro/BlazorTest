@@ -34,5 +34,27 @@ namespace BlazorTestDal
                 };
             }
         }
+
+        public static Hirarchy GetHierarchy()
+        {
+            List<Tuple<int, int>> data = new List<Tuple<int, int>>();
+            var reader = CsvDataReader.Create(Path.Combine(Path.GetDirectoryName(typeof(BlazorTestDal).Assembly.Location), "Data", "Hirarchy.csv"));
+            while (reader.Read())
+            {
+                data.Add(new Tuple<int, int>(reader.GetInt32(0), reader.GetInt32(1)));
+            }
+            var employees = GetEmployees().ToList();
+            return ParseHirarchy(data, employees, 30);
+        }
+
+        private static Hirarchy ParseHirarchy(List<Tuple<int, int>> data, List<Employee> employees, int parent)
+        {
+            var hierarchy = new Hirarchy(employees.Single(e => e.ID == parent));
+            foreach (var item in data.Where(d => d.Item2 == parent))
+            {
+                hierarchy.Dependents.Add(ParseHirarchy(data, employees, item.Item1));
+            }
+            return hierarchy;
+        }
     }
 }

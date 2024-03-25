@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Tests\\BlazorTest\\BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj": {}
+    "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Tests\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj": {
+    "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Tests\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj",
+        "projectUniqueName": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj",
         "projectName": "BlazorTestClasses",
-        "projectPath": "C:\\Development\\Tests\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj",
+        "projectPath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Tests\\BlazorTest\\BlazorTestClasses\\obj\\",
+        "outputPath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,18 +65,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Development\\Tests\\BlazorTest\\BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj": {
+    "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Tests\\BlazorTest\\BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj",
+        "projectUniqueName": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj",
         "projectName": "BlazorTestEmailTemplates",
-        "projectPath": "C:\\Development\\Tests\\BlazorTest\\BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj",
+        "projectPath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Tests\\BlazorTest\\BlazorTestEmailTemplates\\obj\\",
+        "outputPath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestEmailTemplates\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +98,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Development\\Tests\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj": {
-                "projectPath": "C:\\Development\\Tests\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj"
+              "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj": {
+                "projectPath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj"
               }
             }
           }
@@ -103,6 +108,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -130,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

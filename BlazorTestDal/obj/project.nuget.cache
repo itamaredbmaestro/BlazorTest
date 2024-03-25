@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uw349T2TZYSrMEPltU0cMr7Ohi36nRu9DI0LUQScD8iHddSN7U3/Bz+YHu+dHCCW0Q8Rr9TJivJXwEtnL0RNmA==",
+  "dgSpecHash": "ewPRb2E2u8KJi+gBBWoPaS4/+07yyuE1OQxSAsmOf2f0lsPPGXGuylZmb9F/6O62bZCStP3HvuUoaJXma5b4iQ==",
   "success": true,
-  "projectFilePath": "C:\\Development\\Tests\\BlazorTest\\BlazorTestDal\\BlazorTestDal.csproj",
+  "projectFilePath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestDal\\BlazorTestDal.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

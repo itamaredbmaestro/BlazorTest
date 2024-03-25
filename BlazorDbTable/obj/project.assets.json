@@ -295,11 +295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Tests\\BlazorTest\\BlazorDbTable\\BlazorDbTable.csproj",
+      "projectUniqueName": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\BlazorDbTable.csproj",
       "projectName": "BlazorDbTable",
-      "projectPath": "C:\\Development\\Tests\\BlazorTest\\BlazorDbTable\\BlazorDbTable.csproj",
+      "projectPath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\BlazorDbTable.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Tests\\BlazorTest\\BlazorDbTable\\obj\\",
+      "outputPath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -321,11 +321,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Development\\Tests\\BlazorTest\\BlazorTestBL\\BlazorTestBL.csproj": {
-              "projectPath": "C:\\Development\\Tests\\BlazorTest\\BlazorTestBL\\BlazorTestBL.csproj"
+            "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestBL\\BlazorTestBL.csproj": {
+              "projectPath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestBL\\BlazorTestBL.csproj"
             },
-            "C:\\Development\\Tests\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj": {
-              "projectPath": "C:\\Development\\Tests\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj"
+            "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj": {
+              "projectPath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestClasses\\BlazorTestClasses.csproj"
             }
           }
         }
@@ -334,6 +334,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -358,7 +363,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

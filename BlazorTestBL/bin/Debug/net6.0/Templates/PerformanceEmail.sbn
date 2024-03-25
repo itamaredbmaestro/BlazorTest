@@ -1,6 +1,6 @@
 Dear {{employee.LName}} {{employee.FName}}
 
-Your performance between the {{GetPerformanceStart().ToShortString()}} and {{GetPerformanceEnd().ToShortString()}} was {{IsSumTicketsGood() ? "Good" : "Not Good"}}.
+Your performance between the {{GetPerformanceStart()}} and {{GetPerformanceEnd()}} was {{IsSumTicketsGood() ? "Good" : "Not Good"}}.
 You handled {{SumTicketsFromAmount()}} {{IsSumTicketsGood() ? "More" : "Less"}} than needed.
 
 Thank you

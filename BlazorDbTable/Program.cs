@@ -12,6 +12,8 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<EmployeeVM>();
 builder.Services.AddSingleton<EMailsVM>();
+builder.Services.AddSingleton<PerformanceVM>();
+builder.Services.AddSingleton<HirarchialTreeVM>();
 
 var app = builder.Build();
 

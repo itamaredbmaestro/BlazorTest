@@ -16,24 +16,27 @@ namespace BlazorTestBL
             return BlazorTestDal.BlazorTestDal.GetEmployeePerformance().Where(p => p.EmpID == employee.ID);
         }
 
-        public static PerformanceSequance GetEmployeeBestPerformance(Employee employee)
+        public static Hirarchy GetEmployeeHirarchy()
         {
-            return null;
+            return BlazorTestDal.BlazorTestDal.GetHierarchy();
         }
 
-        public static PerformanceSequance GetBestEmployeePerformance()
+        public static PerformanceSequance GetEmployeeBestPerformance(Employee employee, IEnumerable<Performance> performance)
         {
+            // Fill this function as an answer for question 2
             return null;
         }
 
         public static IEnumerable<string> CreateEmployeeEmail(Employee employee)
         {
-            return EMailGenerator.CreatePerformanceEmail(employee, GetEmployeePerformance(employee), GetEmployeeBestPerformance(employee));
+            var performance = GetEmployeePerformance(employee);
+            return EMailGenerator.CreatePerformanceEmail(employee, performance, GetEmployeeBestPerformance(employee, performance));
         }
 
-        public static IEnumerable<string> CreateBestEmployeeEmail()
+        public static IEnumerable<Employee> DuplicateManagerEmployees()
         {
-            return EMailGenerator.CreateBestPerformanceEmail(GetBestEmployeePerformance());
+            Hirarchy hirarchy = GetEmployeeHirarchy();
+            return null;
         }
     }
 }

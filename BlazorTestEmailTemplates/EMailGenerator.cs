@@ -6,10 +6,13 @@ namespace BlazorTestEmailTemplates
     {
         public static IEnumerable<string> CreatePerformanceEmail(Employee employee, IEnumerable<Performance> performances, PerformanceSequance sequance)
         {
-            yield return new GeneratePerformanceEmail(employee, performances).EmailContent;
-            if (sequance != null)
+            if (performances?.Any() ?? false)
             {
-                yield return new GenerateBestPerformanceEmail(sequance).EmailContent;
+                yield return new GeneratePerformanceEmail(employee, performances).EmailContent;
+                if (sequance != null)
+                {
+                    yield return new GenerateBestPerformanceEmail(sequance).EmailContent;
+                }
             }
         }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d/hMKlK4HdUDo99Ritrt2QAvhMinD+4w2WZE0yYTjk1NLsfbuSqSRAWy5e46WFgE4EsunNyzE9KefWA2Dk/xjQ==",
+  "dgSpecHash": "9guTw6AEbNU71RQNee0/mnoCg3wFHCiB+1J/FmZNSTeNsAefHLPs4Ld6vURIjmMqheDElJ3+0Y+AjGa1n70JVA==",
   "success": true,
-  "projectFilePath": "C:\\Development\\Tests\\BlazorTest\\BlazorTestBL\\BlazorTestBL.csproj",
+  "projectFilePath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestBL\\BlazorTestBL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\scriban\\5.9.1\\scriban.5.9.1.nupkg.sha512",

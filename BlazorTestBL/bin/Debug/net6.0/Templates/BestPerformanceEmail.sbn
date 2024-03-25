@@ -1,5 +1,5 @@
 Dear {{employee.LName}} {{employee.FName}}
 
-Your performance between {{GetPerformanceStart().ToShortString()}} and {{GetPerformanceEnd().ToShortString()}} was the best with {{GetTotalTicketsOver()}} tickets over.
+Your performance between {{GetPerformanceStart()}} and {{GetPerformanceEnd()}} was the best with {{GetTotalTicketsOver()}} tickets over.
 
 Thank you

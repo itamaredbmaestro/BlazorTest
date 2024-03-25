@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KFYz5fY6iE5DCpqLLB/zxW8VBC6PAVueIBNw3Xnv7STVbxNcYGrMFQLS0KAzsGFSlrZqRPx8JBkhHF+aKdqZtw==",
+  "dgSpecHash": "LLLrEAB2zK1oAaxk/dJqcodhKFY7jBLu0b44zW/XUj12E39cgB/AqV+16FD8rUs6J6tc/4BPGmJCHWpJb+IzPA==",
   "success": true,
-  "projectFilePath": "C:\\Development\\Tests\\BlazorTest\\BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj",
+  "projectFilePath": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\scriban\\5.9.1\\scriban.5.9.1.nupkg.sha512",

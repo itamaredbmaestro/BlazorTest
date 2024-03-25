@@ -9,3 +9,15 @@ C:\Development\Tests\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\BlazorTestCla
 C:\Development\Tests\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\refint\BlazorTestClasses.dll
 C:\Development\Tests\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\BlazorTestClasses.pdb
 C:\Development\Tests\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\ref\BlazorTestClasses.dll
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\bin\Debug\net6.0\BlazorTestClasses.deps.json
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\bin\Debug\net6.0\BlazorTestClasses.dll
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\bin\Debug\net6.0\BlazorTestClasses.pdb
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\BlazorTestClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\BlazorTestClasses.AssemblyInfoInputs.cache
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\BlazorTestClasses.AssemblyInfo.cs
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\BlazorTestClasses.csproj.CoreCompileInputs.cache
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\BlazorTestClasses.sourcelink.json
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\BlazorTestClasses.dll
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\refint\BlazorTestClasses.dll
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\BlazorTestClasses.pdb
+C:\Development\Tests\BlazorTest\Git\BlazorTest\BlazorTestClasses\obj\Debug\net6.0\ref\BlazorTestClasses.dll
