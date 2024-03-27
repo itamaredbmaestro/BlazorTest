@@ -14,6 +14,7 @@ builder.Services.AddSingleton<EmployeeVM>();
 builder.Services.AddSingleton<EMailsVM>();
 builder.Services.AddSingleton<PerformanceVM>();
 builder.Services.AddSingleton<HirarchialTreeVM>();
+builder.Services.AddSingleton<DuplicatesVM>();
 
 var app = builder.Build();
 

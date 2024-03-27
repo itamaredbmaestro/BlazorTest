@@ -1,6 +1,7 @@
 ﻿using BlazorTestClasses;
 using BlazorTestDal;
 using BlazorTestEmailTemplates;
+using System.Collections.Generic;
 
 namespace BlazorTestBL
 {
@@ -23,8 +24,25 @@ namespace BlazorTestBL
 
         public static PerformanceSequance GetEmployeeBestPerformance(Employee employee, IEnumerable<Performance> performance)
         {
+            var list = performance.ToList();
+            List<int> values = list.Select(p => p.TicketsOverMin).ToList();
+            GetMaxSum(values, out int fromIndex, out int toIndex, out int total);
+            return new PerformanceSequance()
+            {
+                Emp = employee,
+                FromDay = list[fromIndex].Day,
+                ToDay = list[toIndex].Day,
+                Month = list[toIndex].Month,
+                SumTicketsOverMin = total
+            };
+        }
+
+        public static void GetMaxSum(List<int> values, out int fromIndex, out int toIndex, out int total)
+        {
             // Fill this function as an answer for question 2
-            return null;
+            fromIndex = 0;
+            toIndex = 0;
+            total = 0;
         }
 
         public static IEnumerable<string> CreateEmployeeEmail(Employee employee)
@@ -33,9 +51,8 @@ namespace BlazorTestBL
             return EMailGenerator.CreatePerformanceEmail(employee, performance, GetEmployeeBestPerformance(employee, performance));
         }
 
-        public static IEnumerable<Employee> DuplicateManagerEmployees()
+        public static IEnumerable<Employee> DuplicateManagerEmployees(Hirarchy hirarchy)
         {
-            Hirarchy hirarchy = GetEmployeeHirarchy();
             return null;
         }
     }

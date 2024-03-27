@@ -7,40 +7,28 @@
       "RelativeMoniker": "D:0:0:{1FC832AF-CA84-4072-9B62-2191BC882CD6}|BlazorTestBL\\BlazorTestBL.csproj|solutionrelative:blazortestbl\\blazortestbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\viewmodel\\hirarchialtreevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\viewmodel\\hirarchialtreevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\pages\\hirarchialtree.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\pages\\hirarchialtree.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\pages\\duplicates.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\pages\\duplicates.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\pages\\emails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\pages\\emails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\viewmodel\\emailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\viewmodel\\emailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\viewmodel\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\viewmodel\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\viewmodel\\duplicatesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\viewmodel\\duplicatesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\pages\\employees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\pages\\employees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\viewmodel\\performancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\viewmodel\\performancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642206CF-6409-4A8A-AC82-58FA57BA6BB6}|BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazortestemailtemplates\\emailgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642206CF-6409-4A8A-AC82-58FA57BA6BB6}|BlazorTestEmailTemplates\\BlazorTestEmailTemplates.csproj|solutionrelative:blazortestemailtemplates\\emailgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\viewmodel\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\viewmodel\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 90,
+          "SelectedChildIndex": 91,
           "Children": [
             {
               "$type": "Bookmark",
@@ -389,107 +377,33 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HirarchialTreeVM.cs",
-              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\HirarchialTreeVM.cs",
-              "RelativeDocumentMoniker": "BlazorDbTable\\ViewModel\\HirarchialTreeVM.cs",
-              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\HirarchialTreeVM.cs",
-              "RelativeToolTip": "BlazorDbTable\\ViewModel\\HirarchialTreeVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T09:28:43.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EMailsVM.cs",
-              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\EMailsVM.cs",
-              "RelativeDocumentMoniker": "BlazorDbTable\\ViewModel\\EMailsVM.cs",
-              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\EMailsVM.cs",
-              "RelativeToolTip": "BlazorDbTable\\ViewModel\\EMailsVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:04:07.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EMails.razor",
-              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\EMails.razor",
-              "RelativeDocumentMoniker": "BlazorDbTable\\Pages\\EMails.razor",
-              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\EMails.razor",
-              "RelativeToolTip": "BlazorDbTable\\Pages\\EMails.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-25T05:04:07.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EMailGenerator.cs",
-              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestEmailTemplates\\EMailGenerator.cs",
-              "RelativeDocumentMoniker": "BlazorTestEmailTemplates\\EMailGenerator.cs",
-              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestEmailTemplates\\EMailGenerator.cs",
-              "RelativeToolTip": "BlazorTestEmailTemplates\\EMailGenerator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:04:07.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorDbTable\\Shared\\NavMenu.razor",
               "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Shared\\NavMenu.razor",
               "RelativeToolTip": "BlazorDbTable\\Shared\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAjAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-25T05:04:07.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Employees.razor",
-              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\Employees.razor",
-              "RelativeDocumentMoniker": "BlazorDbTable\\Pages\\Employees.razor",
-              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\Employees.razor",
-              "RelativeToolTip": "BlazorDbTable\\Pages\\Employees.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-25T05:04:07.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BlazorTestBL.cs",
-              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestBL\\BlazorTestBL.cs",
-              "RelativeDocumentMoniker": "BlazorTestBL\\BlazorTestBL.cs",
-              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestBL\\BlazorTestBL.cs",
-              "RelativeToolTip": "BlazorTestBL\\BlazorTestBL.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCMAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:04:07.814Z",
+              "WhenOpened": "2024-03-27T09:35:31.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HirarchialTree.razor",
-              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\HirarchialTree.razor",
-              "RelativeDocumentMoniker": "BlazorDbTable\\Pages\\HirarchialTree.razor",
-              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\HirarchialTree.razor",
-              "RelativeToolTip": "BlazorDbTable\\Pages\\HirarchialTree.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-25T09:28:19.173Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorDbTable\\Program.cs",
+              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Program.cs",
+              "RelativeToolTip": "BlazorDbTable\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:35:16.654Z",
               "EditorCaption": ""
             },
             {
@@ -500,22 +414,61 @@
               "RelativeDocumentMoniker": "BlazorDbTable\\ViewModel\\EmployeeVM.cs",
               "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\EmployeeVM.cs",
               "RelativeToolTip": "BlazorDbTable\\ViewModel\\EmployeeVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:04:07.811Z",
+              "WhenOpened": "2024-03-27T09:33:05.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PerformanceVM.cs",
-              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\PerformanceVM.cs",
-              "RelativeDocumentMoniker": "BlazorDbTable\\ViewModel\\PerformanceVM.cs",
-              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\PerformanceVM.cs",
-              "RelativeToolTip": "BlazorDbTable\\ViewModel\\PerformanceVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABFAAAA",
+              "DocumentIndex": 4,
+              "Title": "DuplicatesVM.cs",
+              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\DuplicatesVM.cs",
+              "RelativeDocumentMoniker": "BlazorDbTable\\ViewModel\\DuplicatesVM.cs",
+              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\DuplicatesVM.cs",
+              "RelativeToolTip": "BlazorDbTable\\ViewModel\\DuplicatesVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:43:48.106Z",
+              "WhenOpened": "2024-03-27T09:32:59.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employees.razor",
+              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\Employees.razor",
+              "RelativeDocumentMoniker": "BlazorDbTable\\Pages\\Employees.razor",
+              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\Employees.razor",
+              "RelativeToolTip": "BlazorDbTable\\Pages\\Employees.razor",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T09:32:42.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Duplicates.razor",
+              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\Duplicates.razor",
+              "RelativeDocumentMoniker": "BlazorDbTable\\Pages\\Duplicates.razor",
+              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\Duplicates.razor",
+              "RelativeToolTip": "BlazorDbTable\\Pages\\Duplicates.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T09:32:36.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlazorTestBL.cs",
+              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestBL\\BlazorTestBL.cs",
+              "RelativeDocumentMoniker": "BlazorTestBL\\BlazorTestBL.cs",
+              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestBL\\BlazorTestBL.cs",
+              "RelativeToolTip": "BlazorTestBL\\BlazorTestBL.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:00:21.024Z",
               "EditorCaption": ""
             }
           ]
