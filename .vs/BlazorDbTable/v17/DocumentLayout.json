@@ -390,8 +390,7 @@
               "RelativeToolTip": "BlazorDbTable\\Shared\\NavMenu.razor",
               "ViewState": "AQIAAAUAAAAAAAAAAAAUwCEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-27T09:35:31.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T09:35:31.585Z"
             },
             {
               "$type": "Document",
@@ -403,8 +402,7 @@
               "RelativeToolTip": "BlazorDbTable\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:35:16.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T09:35:16.654Z"
             },
             {
               "$type": "Document",
@@ -416,8 +414,7 @@
               "RelativeToolTip": "BlazorDbTable\\ViewModel\\EmployeeVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:33:05.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T09:33:05.678Z"
             },
             {
               "$type": "Document",
@@ -429,8 +426,7 @@
               "RelativeToolTip": "BlazorDbTable\\ViewModel\\DuplicatesVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:32:59.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T09:32:59.056Z"
             },
             {
               "$type": "Document",
@@ -442,8 +438,7 @@
               "RelativeToolTip": "BlazorDbTable\\Pages\\Employees.razor",
               "ViewState": "AQIAAAUAAAAAAAAAAAAUwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-27T09:32:42.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T09:32:42.013Z"
             },
             {
               "$type": "Document",
@@ -455,8 +450,7 @@
               "RelativeToolTip": "BlazorDbTable\\Pages\\Duplicates.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-27T09:32:36.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T09:32:36.094Z"
             },
             {
               "$type": "Document",
@@ -466,7 +460,7 @@
               "RelativeDocumentMoniker": "BlazorTestBL\\BlazorTestBL.cs",
               "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestBL\\BlazorTestBL.cs",
               "RelativeToolTip": "BlazorTestBL\\BlazorTestBL.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAwwDcAAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T10:00:21.024Z",
               "EditorCaption": ""

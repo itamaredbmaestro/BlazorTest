@@ -27,22 +27,29 @@ namespace BlazorTestBL
             var list = performance.ToList();
             List<int> values = list.Select(p => p.TicketsOverMin).ToList();
             GetMaxSum(values, out int fromIndex, out int toIndex, out int total);
-            return new PerformanceSequance()
+            if (fromIndex >= 0)
             {
-                Emp = employee,
-                FromDay = list[fromIndex].Day,
-                ToDay = list[toIndex].Day,
-                Month = list[toIndex].Month,
-                SumTicketsOverMin = total
-            };
+                return new PerformanceSequance()
+                {
+                    Emp = employee,
+                    FromDay = list[fromIndex].Day,
+                    ToDay = list[toIndex].Day,
+                    Month = list[toIndex].Month,
+                    SumTicketsOverMin = total
+                };
+            }
+            else
+            {
+                return null;
+            }
         }
 
         public static void GetMaxSum(List<int> values, out int fromIndex, out int toIndex, out int total)
         {
             // Fill this function as an answer for question 2
-            fromIndex = 0;
-            toIndex = 0;
-            total = 0;
+            fromIndex = -1;
+            toIndex = -1;
+            total = -1;
         }
 
         public static IEnumerable<string> CreateEmployeeEmail(Employee employee)
