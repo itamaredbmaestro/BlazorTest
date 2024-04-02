@@ -24,24 +24,24 @@ namespace BlazorTestBL
 
         public static PerformanceSequance GetEmployeeBestPerformance(Employee employee, IEnumerable<Performance> performance)
         {
-            var list = performance.ToList();
-            List<int> values = list.Select(p => p.TicketsOverMin).ToList();
-            GetMaxSum(values, out int fromIndex, out int toIndex, out int total);
-            if (fromIndex >= 0)
+            if (performance.Any())
             {
-                return new PerformanceSequance()
+                var list = performance.ToList();
+                List<int> values = list.Select(p => p.TicketsOverMin).ToList();
+                GetMaxSum(values, out int fromIndex, out int toIndex, out int total);
+                if (fromIndex >= 0)
                 {
-                    Emp = employee,
-                    FromDay = list[fromIndex].Day,
-                    ToDay = list[toIndex].Day,
-                    Month = list[toIndex].Month,
-                    SumTicketsOverMin = total
-                };
+                    return new PerformanceSequance()
+                    {
+                        Emp = employee,
+                        FromDay = list[fromIndex].Day,
+                        ToDay = list[toIndex].Day,
+                        Month = list[toIndex].Month,
+                        SumTicketsOverMin = total
+                    };
+                }
             }
-            else
-            {
-                return null;
-            }
+            return null;
         }
 
         public static void GetMaxSum(List<int> values, out int fromIndex, out int toIndex, out int total)

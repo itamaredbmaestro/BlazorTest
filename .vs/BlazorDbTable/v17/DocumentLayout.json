@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{1FC832AF-CA84-4072-9B62-2191BC882CD6}|BlazorTestBL\\BlazorTestBL.csproj|solutionrelative:blazortestbl\\blazortestbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\viewmodel\\performancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\viewmodel\\performancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|c:\\development\\tests\\blazortest\\git\\blazortest\\blazordbtable\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0514CF78-9BA8-4E4B-8597-20BEDC889352}|BlazorDbTable\\BlazorDbTable.csproj|solutionrelative:blazordbtable\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 91,
+          "SelectedChildIndex": 92,
           "Children": [
             {
               "$type": "Bookmark",
@@ -383,6 +387,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PerformanceVM.cs",
+              "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\PerformanceVM.cs",
+              "RelativeDocumentMoniker": "BlazorDbTable\\ViewModel\\PerformanceVM.cs",
+              "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\PerformanceVM.cs",
+              "RelativeToolTip": "BlazorDbTable\\ViewModel\\PerformanceVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T05:01:43.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorDbTable\\Shared\\NavMenu.razor",
@@ -394,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Program.cs",
               "RelativeDocumentMoniker": "BlazorDbTable\\Program.cs",
@@ -406,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EmployeeVM.cs",
               "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\EmployeeVM.cs",
               "RelativeDocumentMoniker": "BlazorDbTable\\ViewModel\\EmployeeVM.cs",
@@ -418,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DuplicatesVM.cs",
               "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\ViewModel\\DuplicatesVM.cs",
               "RelativeDocumentMoniker": "BlazorDbTable\\ViewModel\\DuplicatesVM.cs",
@@ -430,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Employees.razor",
               "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\Employees.razor",
               "RelativeDocumentMoniker": "BlazorDbTable\\Pages\\Employees.razor",
@@ -442,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Duplicates.razor",
               "DocumentMoniker": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorDbTable\\Pages\\Duplicates.razor",
               "RelativeDocumentMoniker": "BlazorDbTable\\Pages\\Duplicates.razor",
@@ -460,7 +477,7 @@
               "RelativeDocumentMoniker": "BlazorTestBL\\BlazorTestBL.cs",
               "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestBL\\BlazorTestBL.cs",
               "RelativeToolTip": "BlazorTestBL\\BlazorTestBL.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAowCoAAAAAAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T10:00:21.024Z",
               "EditorCaption": ""
