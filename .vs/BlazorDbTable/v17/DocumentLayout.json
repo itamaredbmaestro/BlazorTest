@@ -42,8 +42,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 92,
+          "SelectedChildIndex": 95,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -394,8 +406,7 @@
               "RelativeToolTip": "BlazorDbTable\\ViewModel\\PerformanceVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T05:01:43.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T05:01:43.021Z"
             },
             {
               "$type": "Document",
@@ -477,7 +488,7 @@
               "RelativeDocumentMoniker": "BlazorTestBL\\BlazorTestBL.cs",
               "ToolTip": "C:\\Development\\Tests\\BlazorTest\\Git\\BlazorTest\\BlazorTestBL\\BlazorTestBL.cs",
               "RelativeToolTip": "BlazorTestBL\\BlazorTestBL.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAwwDkAAAAvAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T10:00:21.024Z",
               "EditorCaption": ""

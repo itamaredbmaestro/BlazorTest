@@ -28,17 +28,20 @@ namespace BlazorTestBL
             {
                 var list = performance.ToList();
                 List<int> values = list.Select(p => p.TicketsOverMin).ToList();
-                GetMaxSum(values, out int fromIndex, out int toIndex, out int total);
-                if (fromIndex >= 0)
+                if (values.Any())
                 {
-                    return new PerformanceSequance()
+                    GetMaxSum(values, out int fromIndex, out int toIndex, out int total);
+                    if (fromIndex >= 0)
                     {
-                        Emp = employee,
-                        FromDay = list[fromIndex].Day,
-                        ToDay = list[toIndex].Day,
-                        Month = list[toIndex].Month,
-                        SumTicketsOverMin = total
-                    };
+                        return new PerformanceSequance()
+                        {
+                            Emp = employee,
+                            FromDay = list[fromIndex].Day,
+                            ToDay = list[toIndex].Day,
+                            Month = list[toIndex].Month,
+                            SumTicketsOverMin = total
+                        };
+                    }
                 }
             }
             return null;
