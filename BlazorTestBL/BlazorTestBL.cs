@@ -49,7 +49,8 @@ namespace BlazorTestBL
 
         public static void GetMaxSum(List<int> values, out int fromIndex, out int toIndex, out int total)
         {
-            // Fill this function as an answer for question 2
+            // Fill this function as an answer for question 1
+            // The code here is for compilation reasons, feel free to delete it if needed
             fromIndex = -1;
             toIndex = -1;
             total = -1;
